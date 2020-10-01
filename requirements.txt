@@ -3,6 +3,9 @@
 
 # external requirements
 click
+pandas
+numpy
+ipykernel
 Sphinx
 coverage
 awscli
